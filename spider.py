@@ -31,7 +31,7 @@ for i in range(0,9): ############每换一个声优都需要改############
         "draw": %s,
         "lang": "ja",
         "length": 100,
-        "myId": "63b460133e418614b91bc102",
+        "myId": "632320873e418657950e7544",
         "order": [{"column": 12, "dir": "desc"}],
         "search": {"value": "花江夏樹", "regex": false},
         "searchword": "花江夏樹",
