@@ -1,4 +1,4 @@
-# voistock_text-get-ikaros
+# voistock_text-get-web_crawler
 https://www.voistock.com/ja/voicelist   网站的爬虫(仅文本)
 
     纯小白通宵了一晚上学的爬虫教程，然后写的程序。
