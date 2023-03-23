@@ -3,7 +3,7 @@ https://www.voistock.com/ja/voicelist   网站的爬虫(仅文本)
 
     纯小白通宵了一晚上学的爬虫教程，然后写的程序。
     
-    很多代码来自 https://space.bilibili.com/228292951 已经公开的爬虫代码部分。
+    参考自 https://space.bilibili.com/228292951 已经公开的爬虫代码部分。
     
     使用前请提前在工作目录建好对应名称文件夹，详细看源码就知道了。代码headers部分需要改成自己浏览器的标识(不改可能也行？)。
     
